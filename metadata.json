@@ -1,0 +1,5 @@
+{
+  "name": "Férfikör Érzelemkártyák",
+  "description": "Egy alkalmazás férfikör vezetőknek, amely férfias témájú tarot kártyákat generál érzelmek alapján. Tartalmaz egy nyomtatható A4-es elrendezést a kártyákhoz és egy generált jégtörő játékot a beszélgetések elősegítésére.",
+  "requestFramePermissions": []
+}
